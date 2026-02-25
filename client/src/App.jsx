@@ -15,7 +15,7 @@ import ProgressDashboard from './pages/ProgressDashboard'
 import Tips from './pages/Tips'
 import NotFound from './pages/NotFound'
 
-export const ServerUrl  = "http://localhost:8000"
+export const ServerUrl  = "https://interview-mitra.onrender.com"
 
 function App() {
 
